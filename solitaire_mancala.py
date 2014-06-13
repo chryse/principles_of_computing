@@ -94,3 +94,5 @@ poc_mancala_testsuite.run_test(SolitaireMancala)
 
 #import user34_V4IZ4ziiPC_3
 #user34_V4IZ4ziiPC_3.run_gui(SolitaireMancala())
+
+print "test"
